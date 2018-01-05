@@ -2,9 +2,9 @@
 
 
 
-    //% color=50 weight=80
+    //% color=50 weight=19
     //% icon="\uf1eb"
-declare namespace IR {
+declare namespace Mbit_IR {
 
     /**
      * button pushed.

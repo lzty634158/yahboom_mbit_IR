@@ -51,9 +51,9 @@ enum class RemoteButton {
 	  NUM9 = 0x1A
 };
 
-//% color=50 weight=80
+//% color=50 weight=19
 //% icon="\uf1eb"
-namespace IR { 
+namespace Mbit_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
