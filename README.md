@@ -1,12 +1,14 @@
-for PXT/microbit
+ # mbit_IR for micro-bit
 
-how do i ir??????
+Extension for Yahboom mbit_IR
 
-for using an ir receiver PXT on the microbit
+Note: IR receiver for Yahboom receiver
 
+## License
 
-known issues:
+MIT
 
- - it is a little slow sometimes
- 
- - press and hold does not work (yet)
+## Supported targets
+
+* for PXT/microbit
+(The metadata above is needed for package search.)
