@@ -1,7 +1,7 @@
 {
-    "name": "ir",
-    "version": "0.0.1",
-    "description": "Tinkercademy package for ElecFreaks IR receiver module",
+    "name": "Yahboom_mbit_IR",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom m:bit IR receiver module",
     "license": "MIT",
     "dependencies": {
         "core": "*"
