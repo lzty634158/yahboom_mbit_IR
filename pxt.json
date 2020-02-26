@@ -1,20 +1,30 @@
 {
-    "name": "Yahboom_mbit_IR",
-    "version": "1.0.0",
-    "description": "Extension for YahBoom m:bit IR receiver module",
-    "license": "MIT",
+    "name": "Mbit_IR",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom Mbit_IR",
     "dependencies": {
         "core": "*"
     },
     "files": [
+        "README.md",
         "shims.d.ts",
         "enums.d.ts",
-        "ir.cpp",
+        "Mbit_IR.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
-        "TransmitterIR.cpp",
-        "TransmitterIR.h"
+        "Mbit_IR.ts",
+        "_locales/zh-cn/Mbit_IR-strings.json",
+        "_locales/zh-cn/Mbit_IR-jsdoc-strings.json",
+        "_locales/zh-tw/Mbit_IR-strings.json",
+        "_locales/zh-tw/Mbit_IR-jsdoc-strings.json"
     ],
-    "public": true
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
 }

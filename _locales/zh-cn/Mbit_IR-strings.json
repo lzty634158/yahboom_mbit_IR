@@ -1,0 +1,7 @@
+{
+  
+    "Mbit_IR.init|block": "连接红外接收器到引脚 %pin",
+    "Mbit_IR.onPressEvent|block": "当按钮 |%btn| 被按下时"
+
+  }
+  

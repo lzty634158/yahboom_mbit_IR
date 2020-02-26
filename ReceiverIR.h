@@ -1,10 +1,3 @@
-/**
- * IR receiver (Version 0.0.4)
- *
- * Copyright (C) 2010 Shinichiro Nakamura (CuBeatSystems)
- * http://shinta.main.jp/
- */
-
 #ifndef _RECEIVER_IR_H_
 #define _RECEIVER_IR_H_
 
