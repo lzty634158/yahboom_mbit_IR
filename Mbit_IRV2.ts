@@ -1,6 +1,6 @@
 /*
 Copyright (C): 2020, Shenzhen Yahboom Tech
-modified by chengengyue
+modified by liusen
 */
 
 /**
@@ -12,9 +12,13 @@ namespace Mbit_IRV2 {
     /**
     * initialization
     */
-
-    //% group="micro:bit(v2)"
-    //% blockId=Mbit_IR_readv2 block="read IR key value"
+  
+    /**
+    * button read.
+    */
+    //% blockId=Mbit_IRV2_readv2
+    //% blockGap=20 weight=89
+    //% block="read IR key value"
     //% shim=Mbit_IRV2::Mbit_IR_readv2
     export function Mbit_IR_readv2(): number {
       return 0;
