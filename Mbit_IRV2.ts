@@ -13,9 +13,6 @@ namespace Mbit_IRV2 {
     * initialization
     */
   
-    /**
-    * button read.
-    */
     //% blockId=Mbit_IRV2_readv2
     //% blockGap=20 weight=89
     //% block="read IR key value"

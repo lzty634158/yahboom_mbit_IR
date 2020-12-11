@@ -100,9 +100,7 @@ namespace Mbit_IRV2 {
         return data;
     }
 
-    /**
-     * initialises local variablesssss
-     */
+
     //% blockId=ir_init
     //% block="connect ir receiver to %pin"
 
