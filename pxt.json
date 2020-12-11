@@ -1,21 +1,19 @@
 {
     "name": "Mbit_IR",
-    "version": "2.0.2",
-    "description": "Extension for YahBoom Mbit_IR V2.0.2",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom Mbit_IR",
     "dependencies": {
         "core": "*"
     },
     "files": [
-        "Mbit_IR.ts",
-        "Mbit_IRV2.ts",
+        "README.md",
         "shims.d.ts",
         "enums.d.ts",
         "Mbit_IR.cpp",
-        "Mbit_IRV2.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
-        "README.md",
+        "Mbit_IR.ts",
         "_locales/zh-cn/Mbit_IR-strings.json",
         "_locales/zh-cn/Mbit_IR-jsdoc-strings.json",
         "_locales/zh-tw/Mbit_IR-strings.json",
@@ -29,6 +27,4 @@
         "microbit"
     ],
     "preferredEditor": "blocksprj"
-
-
 }
